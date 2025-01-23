@@ -1,0 +1,2 @@
+# base
+A static adventure
