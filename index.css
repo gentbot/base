@@ -13,6 +13,6 @@ body {
     width: 100vw;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #111111;
     grid-template-columns: 1fr;
 }
